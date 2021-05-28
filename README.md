@@ -29,6 +29,8 @@
 ## Proposal Scope
 
 ## Hardware
+![mixed_reality_v1](https://user-images.githubusercontent.com/12502053/119936736-a36fb880-bf57-11eb-9452-3d24f54763f2.jpg) \
+***Version #1 illustration***
 
 ## Software
 
