@@ -20,7 +20,7 @@
 10. [References](https://github.com/CloutWorld/Whitepaper#references)
 
 ## Abstract
-**Keywords:**
+**Keywords:** Alternative Reality, Mixed Reality, Augmented Reality, Virtual Reality, Computer Graphics, Video Games, Computer Vision, Neuron Simulation, Privacy, Decentralization, External BCIs
 
 ## Premise
 
