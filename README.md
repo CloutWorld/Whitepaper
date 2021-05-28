@@ -6,18 +6,18 @@
 *Andrew M. K. Nassief*
 
 #### Table of contents
-1. [Abstract]()
-2. [Premise]()
-3. [Introduction]()
-4. [Proposal Scope]()
-5. [Hardware]()
-6. [Software]()
-7. [Integrations]()
-    - [Milestones]()
-    - [Development]()
-8. [Summary]()
-9. [Conclusion]()
-10. [References]()
+1. [Abstract](https://github.com/CloutWorld/Whitepaper#abstract)
+2. [Premise](https://github.com/CloutWorld/Whitepaper#premise)
+3. [Introduction](https://github.com/CloutWorld/Whitepaper#introduction)
+4. [Proposal Scope](https://github.com/CloutWorld/Whitepaper#proposal-scope)
+5. [Hardware](https://github.com/CloutWorld/Whitepaper#hardware)
+6. [Software](https://github.com/CloutWorld/Whitepaper#software)
+7. [Integrations](https://github.com/CloutWorld/Whitepaper#integrations)
+    - [Milestones](https://github.com/CloutWorld/Whitepaper#integrations)
+    - [Development](https://github.com/CloutWorld/Whitepaper#development)
+8. [Summary](https://github.com/CloutWorld/Whitepaper#summary)
+9. [Conclusion](https://github.com/CloutWorld/Whitepaper#conclusion)
+10. [References](https://github.com/CloutWorld/Whitepaper#references)
 
 ## Abstract
 **Keywords:**
