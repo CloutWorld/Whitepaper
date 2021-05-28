@@ -5,6 +5,20 @@
 **Whitepaper v1.0 of CloutWorld** \
 *Andrew M. K. Nassief*
 
+#### Table of contents
+1. [Abstract]()
+2. [Premise]()
+3. [Introduction]()
+4. [Proposal Scope]()
+5. [Hardware]()
+6. [Software]()
+7. [Integrations]()
+    - [Milestones]()
+    - [Development]()
+8. [Summary]()
+9. [Conclusion]()
+10. [References]()
+
 ## Abstract
 **Keywords:**
 
