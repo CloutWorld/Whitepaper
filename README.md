@@ -14,10 +14,7 @@
 6. [Software](https://github.com/CloutWorld/Whitepaper#software)
 7. [Integrations](https://github.com/CloutWorld/Whitepaper#integrations)
     - [Milestones](https://github.com/CloutWorld/Whitepaper#integrations)
-    - [Development](https://github.com/CloutWorld/Whitepaper#development)
-8. [Summary](https://github.com/CloutWorld/Whitepaper#summary)
-9. [Conclusion](https://github.com/CloutWorld/Whitepaper#conclusion)
-10. [References](https://github.com/CloutWorld/Whitepaper#references)
+8. [Further Reading](https://github.com/CloutWorld/Whitepaper#further-reading)
 
 ## Abstract
 [CloutWorld](https://bitclout.com/u/CloutWorld) is working on a "video game" centered around Mixed Reality, custom external BCIs (External Privacy-focused Brain Computer Interfaces), and various aspects of computer vision, rendering and virtualization. It aims to feature aspects of P2P peer discovery and is built untop of a variety of technologies. Some of these technologies include [BitClout](https://bitclout.com/), compatibility w/ [CloutContracts](https://cloutcontracts.github.io/), custom hardware by or utilized by [CloutLock](https://bitclout.com/u/CloutLock), and peer discovery as part of a module made w/ the open-source [Decentralized-Internet SDK](https://github.com/Lonero-Team/Decentralized-Internet). Much of the research behind CloutWorld will be experimental, but is aimed to at the very least provide research in a variety of different areas include immersive gaming, mixed reality interface, and perhaps even privacy, neuroscience, and maybe even variations of mechanic responsiveness or soft robotics integrated into clothing. We aren't just creating an immersive gaming experience, but also simulating alternative realities and new methods of communication.
@@ -45,11 +42,16 @@ As note, various software integrations come into play. The aspect sorrounding co
 The integrations have many primary focuses. Outside of privacy, comes experience, and social interaction. A variety of the technology in the beginning sorrounding the development of CloutWorld will likely be highly experimental. Over time, there should be a higher degree of stability in regards to the technological integrations and network latency. There will also need to be a huge emphasis on what type of features would be integrated in regards to haptic feedback and sensory or audio-sensory modules. 
 
 ### Milestones
+The core of this project is to at the very least focus on releasing tangible research within the field and target area that CloutWorld is interested in. If there are limitations in regards to hardware or actual tangible releases, but enough research or software is released for an advancement within this industry, that in itself is a success. There is an emphasis however, on actual development, and hardware designs in relations to CloutWorld along w/ the software.
 
-### Development
-
-## Summary
-
-## Conclusion
-
-## References
+## Further Reading
+[1] [EEG](https://kidshealth.org/en/parents/eeg.html) \
+[2] [Privacy](http://www.aaronsw.com/) \
+[3] [BitClout](https://bitclout.com/) \
+[4] [P2P Overlay](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1215) \
+[5] [Soft Robotics](https://www.vinerobots.org/) \
+[6] [Mixed Reality](https://en.wikipedia.org/wiki/Mixed_reality) \
+[7] [CloutContracts](https://cloutcontracts.github.io/) \
+[8] [Haptic Feedback](https://en.wikipedia.org/wiki/Haptic_technology) \
+[9] [Non-invasive BCI](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface#Non-invasive_BCIs) \
+[10] [Decentralized Internet SDK](https://github.com/Lonero-Team/Decentralized-Internet)
